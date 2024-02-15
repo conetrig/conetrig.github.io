@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://conetrig.github.io/sitemap.txt
